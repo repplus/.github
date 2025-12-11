@@ -24,6 +24,9 @@
   </a>
 </p>
 
+## 🚀 Install rep+ Chrome Extension  
+[![rep+](https://img.shields.io/badge/rep%2B%20Chrome%20Extension-Install%20Now-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/rep+/dhildnnjbegaggknfkagdpnballiepfm)
+
 # rep+ Organization
 
 rep+ is a lightweight Chrome DevTools extension inspired by Burp Suite's Repeater, now enhanced with AI.  
