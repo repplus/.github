@@ -1,0 +1,45 @@
+<p align="center">
+  <!-- Chrome Supported -->
+  <img src="https://img.shields.io/badge/Chrome-Supported-4285F4?logo=googlechrome&logoColor=white" alt="Chrome Supported">
+
+  <!-- AppSec Tool -->
+  <img src="https://img.shields.io/badge/AppSec-Tool-blueviolet" alt="AppSec Tool">
+
+  <!-- Bug Bounty Friendly -->
+  <img src="https://img.shields.io/badge/Bug%20Bounty-Friendly-orange" alt="Bug Bounty Friendly">
+
+  <!-- Stars -->
+  <a href="https://github.com/bscript/rep/stargazers">
+    <img src="https://img.shields.io/github/stars/bscript/rep?style=social" alt="GitHub Stars">
+  </a>
+
+   <!-- Discord -->
+  <a href="https://discord.gg/rMcKHSbG">
+        <img src="https://img.shields.io/discord/1442955541293961429.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" alt="Discord">
+  </a>
+
+  <!-- Sponsor -->
+  <a href="https://github.com/sponsors/bscript">
+    <img src="https://img.shields.io/badge/Sponsor-%F0%9F%92%96-ea4aaa?style=flat-square" alt="Sponsor">
+  </a>
+</p>
+
+# rep+ Organization
+
+rep+ is a lightweight Chrome DevTools extension inspired by Burp Suite's Repeater, now enhanced with AI.  
+We build tools to help developers, security researchers, and bug bounty hunters **capture, analyze, and replay HTTP requests efficiently**, with AI-powered explanations and attack suggestions.
+
+<img width="1661" height="985" alt="Screenshot 2025-11-27 at 18 07 32" src="https://github.com/user-attachments/assets/3e529124-ab0c-4f8f-9e70-d10b2ce29c9e" />
+
+## About This Organization
+- Hosts **rep+** and related projects for HTTP request testing, AI-assisted security analysis, and productivity tools.
+- Focused on **fast iteration, clear insights, and bug bounty friendly workflows**.
+- Supports collaboration, open source contributions, and community-driven development.
+
+## Join the Community
+- **Discord:** [Chat with us](https://discord.gg/rMcKHSbG)  
+- **Star & Support:** [GitHub Stars](https://github.com/bscript/rep/stargazers) | [Become a Sponsor](https://github.com/sponsors/bscript)
+
+---
+
+*This organization is dedicated to advancing AppSec tools with simplicity, AI, and speed in mind.*
