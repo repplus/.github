@@ -37,7 +37,7 @@ We build tools to help developers, security researchers, and bug bounty hunters 
 - Supports collaboration, open source contributions, and community-driven development.
 
 ## Join the Community
-- **Discord:** [Chat with us](https://discord.gg/rMcKHSbG)  
+- **Discord:** [Chat with us](https://discord.gg/D25vDTXFUP)  
 - **Star & Support:** [GitHub Stars](https://github.com/bscript/rep/stargazers) | [Become a Sponsor](https://github.com/sponsors/bscript)
 
 ---
