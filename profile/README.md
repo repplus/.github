@@ -32,7 +32,7 @@
 rep+ is a lightweight Chrome DevTools extension inspired by Burp Suite's Repeater, now enhanced with AI.  
 We build tools to help developers, security researchers, and bug bounty hunters **capture, analyze, and replay HTTP requests efficiently**, with AI-powered explanations and attack suggestions.
 
-<img width="1661" height="985" alt="Screenshot 2025-11-27 at 18 07 32" src="https://github.com/user-attachments/assets/3e529124-ab0c-4f8f-9e70-d10b2ce29c9e" />
+<img width="1713" height="986" alt="Screenshot 2025-12-26 at 15 35 43" src="https://github.com/user-attachments/assets/31015b99-b1d0-4a8e-8f4d-0db3e43af59b" />
 
 ## About This Organization
 - Hosts **rep+** and related projects for HTTP request testing, AI-assisted security analysis, and productivity tools.
