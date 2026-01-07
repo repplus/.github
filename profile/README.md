@@ -2,6 +2,10 @@
   <!-- Chrome Supported -->
   <img src="https://img.shields.io/badge/Chrome-Supported-4285F4?logo=googlechrome&logoColor=white" alt="Chrome Supported">
 
+  <!-- Firefox Supported -->
+  <img src="https://img.shields.io/badge/Firefox-Supported-FF7139?logo=firefoxbrowser&logoColor=white" alt="Firefox Supported">
+
+
   <!-- AppSec Tool -->
   <img src="https://img.shields.io/badge/AppSec-Tool-blueviolet" alt="AppSec Tool">
 
@@ -24,13 +28,20 @@
   </a>
 </p>
 
-## 🚀 Install rep+ Chrome Extension  
-[![rep+](https://img.shields.io/badge/rep%2B%20Chrome%20Extension-Install%20Now-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/rep+/dhildnnjbegaggknfkagdpnballiepfm)
+## 🚀 Install rep+ Extension
+
+### Chrome
+[![rep+ Chrome Extension](https://img.shields.io/badge/rep%2B%20Chrome%20Extension-Install%20Now-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/rep+/dhildnnjbegaggknfkagdpnballiepfm)
+
+### Firefox
+[![rep+ Firefox Extension](https://img.shields.io/badge/rep%2B%20Firefox%20Extension-Supported-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](#)
+
+> Firefox support is live. Store listing coming soon. 🦊
 
 # rep+ Organization
 
-rep+ is a lightweight Chrome DevTools extension inspired by Burp Suite's Repeater, now enhanced with AI.  
-We build tools to help developers, security researchers, and bug bounty hunters **capture, analyze, and replay HTTP requests efficiently**, with AI-powered explanations and attack suggestions.
+rep+ is a lightweight DevTools extension inspired by Burp Suite Repeater, enhanced with AI.  
+It helps developers, security researchers, and bug bounty hunters **capture, analyze, and replay HTTP requests efficiently**, with AI-powered explanations and attack ideas.
 
 <img width="1713" height="986" alt="Screenshot 2025-12-26 at 15 35 43" src="https://github.com/user-attachments/assets/31015b99-b1d0-4a8e-8f4d-0db3e43af59b" />
 
